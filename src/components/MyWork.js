@@ -29,8 +29,6 @@ function MyWork() {
                     />
                   </div>
                 </div>
-
-                <span className="visually-hidden">Next</span>
               </div>
               <h5 className="ff-jose my-1">Weather App</h5>
               <div className="row d-flex justify-content-center">
@@ -67,8 +65,6 @@ function MyWork() {
                       />
                     </div>
                   </div>
-
-                  <span className="visually-hidden">Next</span>
                 </div>
                 <h5 className="ff-jose my-1">Tower of hanoi</h5>
                 <div className="row d-flex justify-content-center">
@@ -98,13 +94,11 @@ function MyWork() {
                 <div className="carousel-inner">
                   <div className="carousel-item active">
                     <img
-                      src="../portfolio-images/Platform.png"
+                      src="../portfolio-images/platformdesign.png"
                       className="d-block w-100"
                       alt="..."
                     />
                   </div>
-
-                  <span className="visually-hidden">Next</span>
                 </div>
                 <div>
                   <h5 className="ff-jose my-1">Platform design</h5>
@@ -142,14 +136,12 @@ function MyWork() {
                     alt="..."
                   />
                 </div>
-
-                <span className="visually-hidden">Next</span>
               </div>
               <div>
-                <h5 className="ff-jose my-1">Platform design</h5>
+                <h5 className="ff-jose my-1">Count Down with Stopwatch</h5>
                 <div className="row d-flex justify-content-center">
                   <a
-                    href="https://msctechnical.vercel.app/"
+                    href="https://eventmanager-beta.vercel.app/"
                     className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded"
                     target="_blank"
                   >

@@ -126,7 +126,7 @@ manvendra-chouhan-b2b84821a"
               <li>
                 <a
                   className="dropdown-item text-black"
-                  href="https://github.com/Manvendra-Chouhan"
+                  href="https://github.com/manvendra9752"
                   target="/blank"
                 >
                   <AiFillGithub className="fs-5" /> Github
