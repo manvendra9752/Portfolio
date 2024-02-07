@@ -107,7 +107,7 @@ function Sidebar() {
               <li>
                 <a
                   className="dropdown-item text-black"
-                  href="www.linkedin.com/in/manvendra-chouhan-b2b84821a"
+                  href="https://www.linkedin.com/in/manvendra-chouhan-b2b84821a/"
                   target="/blank"
                 >
                   <AiFillLinkedin className="fs-5" /> LinkedIn
